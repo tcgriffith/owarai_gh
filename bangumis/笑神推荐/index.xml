@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>笑神推荐 on 笑神本部</title>
+    <link>/bangumis/%E7%AC%91%E7%A5%9E%E6%8E%A8%E8%8D%90/</link>
+    <description>Recent content in 笑神推荐 on 笑神本部</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/bangumis/%E7%AC%91%E7%A5%9E%E6%8E%A8%E8%8D%90/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JARU JARU TOWER</title>
+      <link>/matome/2019-04-18-jarutower/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/matome/2019-04-18-jarutower/</guid>
+      <description>JARUJARU自称拥有8000个段子，现在以「JARU JARU TOWER」的形式在公式HP和油管每天更新一个。更新一次即是加建一层，居民则是短剧</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/matome/2019-03-29-matome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/matome/2019-03-29-matome/</guid>
+      <description>笑神推荐 笑神推荐是 可以推荐你觉得好玩的东西给其他喜爱日综的小伙伴，例如 本部未收录日综节目/ 艺人新闻 /日综资讯 将推荐的内容按格式回复这个iss</description>
+    </item>
+    
+  </channel>
+</rss>
